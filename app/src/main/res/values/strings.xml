@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Porter</string>
+    <string name="search_hint">Search (by parcel name, price, weight)</string>
+    <string name="weight">%s kg</string>
+    <string name="price">Rs %s</string>
+    <string name="total_parcels">Total Parcels: %s</string>
+</resources>
